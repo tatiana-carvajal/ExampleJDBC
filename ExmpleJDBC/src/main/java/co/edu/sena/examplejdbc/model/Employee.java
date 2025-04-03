@@ -6,7 +6,7 @@ package co.edu.sena.examplejdbc.model;
 
 /**
  *
- * @author Nicol
+ * @author Tatiana
  */
 public class Employee {
     private long document;
@@ -64,6 +64,11 @@ public class Employee {
 
     public void setEmployeeType(EmployeeType employeeType) {
         this.employeeType = employeeType;
+    }
+
+    @Override
+    public String toString() {
+        return fullname;
     }
 
 }

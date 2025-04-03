@@ -16,7 +16,7 @@ import java.util.List;
 
 /**
  *
- * @author Nicol
+ * @author Tatiana
  */
 public class DBKey extends DBConnection{
     public void insert (Key key)

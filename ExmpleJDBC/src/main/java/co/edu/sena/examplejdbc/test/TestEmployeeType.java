@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  * Fecha: 13/03/2025
- * @author Nicolle
+ * @author tatiana
  * Objetivo: probar consultas/transacciones en la tabla employee_type
  */
 public class TestEmployeeType {

@@ -6,7 +6,7 @@ package co.edu.sena.examplejdbc.model;
 
 /**
  *
- * @author Nicol
+ * @author Tatiana
  */
 public class Key {
     private int id;
@@ -64,6 +64,11 @@ public class Key {
 
     public void setCount(int count) {
         this.count = count;
+    }
+
+    @Override
+    public String toString() {
+        return name;
     }
     
     

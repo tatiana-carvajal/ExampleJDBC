@@ -18,7 +18,7 @@ import java.util.List;
 
 /**
  *fecha: 20/3/2025
- * @author rojas
+ * @author Tatiana
  * objetivo: permite consultas y transacciones en la tabla record.
  */
 public class DBrecord  extends DBConnection {

@@ -14,7 +14,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author USUARIO
+ * @author Tatiana
  */
 public class JFrameEmployeeType extends javax.swing.JFrame {
     private IEmployeeTypeController employeeTypeController = new EmployeeTypeController();

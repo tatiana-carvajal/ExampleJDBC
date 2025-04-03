@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author Nicol
+ * @author tatiana
  */
 public class RecordController implements IRecordController {
 

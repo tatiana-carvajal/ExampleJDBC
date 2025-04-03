@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  *fecha: 20/3/2025
- * @author rojas
+ * @author Tatiana
  * objetivo:  probar consultar/transacciones en la tabla employee
  */
 public class TestRecord {

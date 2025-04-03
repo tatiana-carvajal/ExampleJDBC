@@ -6,7 +6,7 @@ package co.edu.sena.examplejdbc.model;
 
 /**
  *
- * @author Nicol
+ * @author Tatiana
  */
 public class Record {
     private int id;

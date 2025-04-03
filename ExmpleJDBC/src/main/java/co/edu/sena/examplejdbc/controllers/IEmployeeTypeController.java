@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author Nicol
+ * @author tatiana
  */
 public interface IEmployeeTypeController {
     public void insert(EmployeeType employeeType)throws Exception;

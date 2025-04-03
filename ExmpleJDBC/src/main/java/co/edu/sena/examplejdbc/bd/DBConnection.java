@@ -6,7 +6,7 @@ package co.edu.sena.examplejdbc.bd;
 
 /**
  *
- * @author Nicol
+ * @author tatiana
  */
 import co.edu.sena.examplejdbc.utils.MessageUtils;
 import java.sql.Connection;
@@ -21,8 +21,8 @@ public class DBConnection {
     private final String HOST = "localhost";
     private final String PORT = "3306";
     private final String DB = "bdkeys";
-    private final String USER = "developer";
-    private final String PASSWORD = "developer";
+    private final String USER = "root";
+    private final String PASSWORD = "root";
 
     public void connect() {
         try {

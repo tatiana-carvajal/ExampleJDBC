@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author Nicol
+ * @author Tatiana
  */
 public class EmployeeController implements IEmployeeController {
 

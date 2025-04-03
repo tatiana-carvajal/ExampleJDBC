@@ -16,7 +16,7 @@ import java.util.List;
 
 /**
  *
- * @author Nicol
+ * @author tatiana
  */
 public class DBEmployee extends DBConnection{
     

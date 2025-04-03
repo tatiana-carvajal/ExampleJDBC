@@ -8,7 +8,7 @@ import co.edu.sena.examplejdbc.model.Record;
 import java.util.List;
 /**
  *
- * @author Nicol
+ * @author Tatian
  */
 public interface IRecordController {
     public void insert(Record record) throws Exception;

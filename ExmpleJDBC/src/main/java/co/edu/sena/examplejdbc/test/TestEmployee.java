@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  *
- * @author Nicol
+ * @author Tatiana
  */
 public class TestEmployee {
 public static void main(String[] args) {

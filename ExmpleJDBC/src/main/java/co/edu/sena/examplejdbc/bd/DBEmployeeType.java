@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  * Fecha: 13/03/2025
- * @author Nicolas Palacios
+ * @author Tatiana Carvjala
  * Objetivo: permite consultas y transacciones en la tabla employee_type
  */
 public class DBEmployeeType extends DBConnection{

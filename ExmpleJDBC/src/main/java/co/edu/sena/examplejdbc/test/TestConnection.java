@@ -8,7 +8,7 @@ import co.edu.sena.examplejdbc.bd.DBConnection;
 
 /**
  *
- * @author Nicol
+ * @author Tatiana
  */
 public class TestConnection {
     public static void main(String[] args) {
